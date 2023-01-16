@@ -1,0 +1,25 @@
+
+INTRODUCTION TO DAX IN POWER BI.
+
+
+1. DAX stands for Data Analysis Expression.
+2. DAX has approximately more than 200 functions.
+
+3. Sum(Column Name)                                                  Function Example   
+4. left( string, No of characters)                                  Function Example
+5. Calculated column VS Measures in Power BI
+
+
+1.Context is a concept in DAX
+2. There are three types of Context 
+i. Row
+ii. Filter
+iii. Query
+ 
+3. An Itterator function can be identify be X at end of functio for example SUMX, AverageX ...
+4. Concept of Variable.
+
+
+1. Quick Measure
+
+ 
